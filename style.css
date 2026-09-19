@@ -1,3 +1,14 @@
+#top{ font-size: 65px;
+    border:  solid rgb(253, 236, 0);
+    background-color: rgb(3, 231, 247);
+
+}
+
+
+
+
+
+
 body{
     background-color: rgb(228, 143, 187);
     font-family: Tahoma;
@@ -6,7 +17,7 @@ body{
 }
 input{ 
     background-color: rgb(1, 244, 244);
-    color:rgb(229, 16, 23);
+    color:rgb(164, 150, 239);
 }
 
 .para-1{ 
@@ -74,3 +85,38 @@ nav{
     color: rgb(226, 7, 142);
     background-color: rgb(6, 35, 199);
 }
+#navbar li{
+ text-decoration: blue;
+}
+#bnt{
+    border: 3px solid yellow;
+    color: rgb(10, 2, 236);
+    padding: 12px 24px;
+    border-radius: 6px;
+    background-color: aqua;
+    text-decoration: none;
+}
+#callMe{
+    margin: 0px;
+    padding: 40px;
+    background-color: rgb(6, 35, 199);
+}
+#PNG{
+    size-adjust: 20px;
+    width: ;
+    height: auto;
+    max-width:100%;
+}
+#footer{
+    text-align: justify;
+}
+
+#dedication{
+    font-size: 25px;
+    border: 5px solid salmon;
+}
+
+
+
+
+
