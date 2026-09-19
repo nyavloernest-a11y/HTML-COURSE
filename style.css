@@ -75,8 +75,9 @@ ul{
     max-width: 1200px;
     background-color: rgb(7, 110, 255);
     padding: 40px;
-    color: rgb(247, 3, 174);86)
+    color: rgb(247, 3, 174);
     margin: 26px;
+    flex-wrap: wrap;
 
 }
 nav{
