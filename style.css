@@ -85,6 +85,8 @@ nav{
     padding: 40px;
     color: rgb(226, 7, 142);
     background-color: rgb(6, 35, 199);
+    flex-wrap: wrap;
+
 }
 #navbar li{
  text-decoration: blue;
